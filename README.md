@@ -39,7 +39,7 @@ Este proyecto está licenciado bajo la [Licencia Pública General de GNU, versi�
 
 **Ricardo Rosero**  
 Email: rrosero2000@gmail.com  
-GitHub: [n4p5t3r](https://github.com/n4p5t3r)
+GitHub: [rr-n4p5t3r](https://github.com/rr-n4p5t3r)
 
 ### Invítame un café: ###
 
