@@ -30,8 +30,21 @@ Las contribuciones son bienvenidas. Si deseas contribuir al proyecto, sigue esto
 4. Realiza tus cambios y haz commits (`git commit -am 'Agrega nueva funcionalidad'`).
 5. Haz push a tu rama (`git push origin feature/nueva-funcionalidad`).
 6. Abre un pull request en GitHub.
-   
+
 ## Licencia
 
-Este proyecto está licenciado bajo la [Licencia Pública General de GNU, versión 3 (GNU GPLv3)](LICENSE). 
+Este proyecto está licenciado bajo la [Licencia Pública General de GNU, versión 3 (GNU GPLv3)](LICENSE).
 
+## Autor
+
+**Ricardo Rosero**  
+Email: rrosero2000@gmail.com  
+GitHub: [n4p5t3r](https://github.com/n4p5t3r)
+
+### Invítame un café: ###
+
+<div id="badges">
+  <a href="https://www.buymeacoffee.com/elblogden4p5t3r" target="_blank">
+    <img src="https://img.shields.io/badge/buymeacoffee-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
