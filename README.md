@@ -2,6 +2,8 @@
 
 Simbiote es una suite de herramientas de ciberseguridad diseñada para la replicación y el cifrado de archivos en sistemas de almacenamiento de datos. Este proyecto ofrece una serie de herramientas que permiten replicar archivos en discos duros y directorios específicos, así como cifrar y descifrar archivos utilizando técnicas de cifrado seguro.
 
+**Nota importante: Este proyecto debe ser utilizado únicamente para fines educativos. El autor de los scripts no se responsabiliza del mal uso que se le den a los mismos.**
+
 ## Funcionalidades
 
 ### Carnage.py
