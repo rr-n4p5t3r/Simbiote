@@ -30,8 +30,8 @@ Las contribuciones son bienvenidas. Si deseas contribuir al proyecto, sigue esto
 4. Realiza tus cambios y haz commits (`git commit -am 'Agrega nueva funcionalidad'`).
 5. Haz push a tu rama (`git push origin feature/nueva-funcionalidad`).
 6. Abre un pull request en GitHub.
-
+   
 ## Licencia
 
-Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
+Este proyecto está licenciado bajo la [Licencia Pública General de GNU, versión 3 (GNU GPLv3)](LICENSE). 
 
