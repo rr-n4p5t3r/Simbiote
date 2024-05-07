@@ -38,5 +38,5 @@ def replicate_disk(disk_path):
 
 if __name__ == "__main__":
     # Especifica la ruta del disco duro que quieres replicar
-    disk_path = r"/"
+    disk_path = r"D:\\"
     replicate_disk(disk_path)

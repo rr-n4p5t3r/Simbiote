@@ -27,7 +27,7 @@ def decrypt_file(encrypted_file_path, key):
 
 if __name__ == "__main__":
     # Especifica el directorio que quieres descifrar
-    directorio_a_descifrar = r"/mnt/lab"
+    directorio_a_descifrar = r"D:\dev\proyectos\ciberseguridad\Simbiote\src"
     
     # Clave de cifrado
     key = input("Ingrese la clave de cifrado: ")

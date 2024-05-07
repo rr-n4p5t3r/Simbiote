@@ -36,5 +36,5 @@ def replicate(directory):
 
 if __name__ == "__main__":
     # Especifica el directorio que quieres replicar
-    directorio_a_replicar = r"/mnt/lab"
+    directorio_a_replicar = r"D:\dev\proyectos\ciberseguridad\Simbiote\src"
     replicate(directorio_a_replicar)
